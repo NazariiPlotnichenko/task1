@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statistics>
+  <item>
+    <value>Epic Poetry</value>
+    <count>7</count>
+  </item>
+  <item>
+    <value>Tragedy</value>
+    <count>6</count>
+  </item>
+  <item>
+    <value>Romance</value>
+    <count>5</count>
+  </item>
+  <item>
+    <value>Historical Fiction</value>
+    <count>4</count>
+  </item>
+  <item>
+    <value>Adventure</value>
+    <count>3</count>
+  </item>
+  <item>
+    <value>Epic</value>
+    <count>3</count>
+  </item>
+  <item>
+    <value>Maritime</value>
+    <count>3</count>
+  </item>
+  <item>
+    <value>Bildungsroman</value>
+    <count>3</count>
+  </item>
+  <item>
+    <value>Southern Gothic</value>
+    <count>3</count>
+  </item>
+  <item>
+    <value>Realist novel</value>
+    <count>3</count>
+  </item>
+  <item>
+    <value>Dystopian</value>
+    <count>3</count>
+  </item>
+  <item>
+    <value>Satire</value>
+    <count>3</count>
+  </item>
+  <item>
+    <value>Political Fiction</value>
+    <count>3</count>
+  </item>
+  <item>
+    <value>Novel</value>
+    <count>2</count>
+  </item>
+  <item>
+    <value>Chivalric romance</value>
+    <count>2</count>
+  </item>
+  <item>
+    <value>Modernist novel</value>
+    <count>2</count>
+  </item>
+  <item>
+    <value>Philosophical novel</value>
+    <count>2</count>
+  </item>
+  <item>
+    <value>Absurdist fiction</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Paranoid fiction</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Magic Realism</value>
+    <count>1</count>
+  </item>
+</statistics>

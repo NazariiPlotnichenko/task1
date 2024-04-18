@@ -1,0 +1,58 @@
+Description of main entities:
+
+Book:
+title: title of the book (String)
+author: author of the book (String)
+year_published: year the book was published (int)
+genre: list of genres of the book (List<String>)
+
+Input file (JSON):
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "year_published": 1949,
+    "genre": "Dystopian", "Political Fiction"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year_published": 1813,
+    "genre": "Romance", "Satire"
+  }
+]
+
+Output file (XML):
+<statistics>
+  <item>
+    <value>Romance</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Dystopian</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Political Fiction</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Satire</value>
+    <count>1</count>
+  </item>
+</statistics>
+
+Threads tests:
+When running tests with varying numbers of threads, the difference in performance was negligible for a small amount of data. 
+Even when utilizing 2 threads, the fastest execution time observed was approximately 88 milliseconds. 
+Therefore, it can be concluded that increasing the number of threads beyond a certain point does not significantly improve performance for small datasets.
+1 Thread - 94 ms
+2 Threads - 88 ms
+4 Threads - 95 ms
+5 Threads - 90 ms
+8 Threads - 92 ms
+
+To run the program using Maven, follow these steps:
+1. Compile the project using the following command: mvn compile
+2. Run the program using the following command, providing the necessary parameters: java -cp target/task1-1.0-SNAPSHOT.jar ua.profitsoft.Main C:\Users\nopna\SRC\ProfitSoft\task1\src\main\resources(your path to files from resources)  genre
+

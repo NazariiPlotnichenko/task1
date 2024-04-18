@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "year_published": 1856,
+    "genre": "Realist novel"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J. D. Salinger",
+    "year_published": 1951,
+    "genre": "Realist novel"
+  },
+  {
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "year_published": 1925,
+    "genre": "Absurdist fiction, Paranoid fiction"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "year_published": 1967,
+    "genre": "Magic Realism"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "year_published": 1880,
+    "genre": "Philosophical novel"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "year_published": 1866,
+    "genre": "Philosophical novel"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "year_published": 1847,
+    "genre": "Tragedy"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "year_published": 1851,
+    "genre": "Adventure, Epic, Maritime"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "year_published": 1869,
+    "genre": "Historical Fiction"
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "year_published": -800,
+    "genre": "Epic Poetry"
+  }
+]
